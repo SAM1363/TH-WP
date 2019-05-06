@@ -1,0 +1,11 @@
+/*
+Theme Name:     Twenty Fourteen Child Theme
+Theme URI:      http://wptreehouse.com/customize-admin
+Description:    2014 Child Theme for How to Customize the WordPress Admin Area
+Author:         Zac Gordon
+Author URI:     http://zacgordon.com
+Template:       twentyfourteen
+Version:        1.0
+*/
+
+@import url("../twentyfourteen/style.css");
