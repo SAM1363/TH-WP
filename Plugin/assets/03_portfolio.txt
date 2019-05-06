@@ -1,0 +1,23 @@
+
+Education [Make a Header 2]
+
+I learn a lot of what I learn to do at Treehouse [Make Treehouse a link to http://teamtreehouse.com].
+
+Recent Work [Make Header 2]
+
+[Upload and insert the "shirts-for-mike-screenshot.png" photo with the following settings:
+	Title = "Dr Wattz Screenshot"
+	Alt Text = "Screenshot of blog for Dr. Wattz"
+	Alignment = "None"
+	Link To = "Attachment Page"
+	Size = "Medium"
+]
+
+[Upload and insert the "drwattz-screenshot.png" photo with the following settings:
+	Title = "Dr Wattz Screenshot"
+	Alt Text = "Screenshot of blog for Dr. Wattz"
+	Alignment = "None"
+	Link To = "Attachment Page"
+	Size = "Medium"
+]
+

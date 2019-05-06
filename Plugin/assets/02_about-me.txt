@@ -1,0 +1,7 @@
+[Inser the following with the Text editor not the Visual editor]
+
+Hi!  I'm Mike the Frog and you're checking out my portfolio site.  I love to design and program and I've learned everything I know on my own (though Treehouse).  Check out this cool video about me working and learning at Treehouse.
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/jQNXtyoyHic" frameborder="0" allowfullscreen></iframe>
+
+I make earning all of the badges at Treehouse my learning mission! You can see some of my recent badges throughout my site.

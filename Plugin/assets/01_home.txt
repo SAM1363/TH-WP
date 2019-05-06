@@ -1,0 +1,11 @@
+[Upload and insert the "mike-the-frog-homepage-photo.png" photo with the following settings:
+	Title = "Mike the Frog - Homepage"
+	Alt Text = "A picture of Mike the Frog wearing his badges belt in front of a WordPress badge"
+	Alignment = "None"
+	Link To = "None"
+	Size = "Full Size"
+]
+
+Hi!  I'm Mike the Frog.  Welcome to my portfolio site where I share a little about myself, my education and some of the web design and development work I have done. 
+
+Hope you enjoy, and please contact me with any projects!

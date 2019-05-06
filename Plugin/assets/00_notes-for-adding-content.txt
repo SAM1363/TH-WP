@@ -1,0 +1,7 @@
+Notes for Adding Content:
+
+* Use the home.txt, about-me.txt and portfolio.txt for content and instructions on creating the pages
+* Set permalinks to Post name
+* Disable comments for pages
+* Set the "Home" page as the static homepage
+* Install a backup plugin so you can easily backup versions of your project as you go along
