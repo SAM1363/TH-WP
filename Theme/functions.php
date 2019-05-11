@@ -51,3 +51,4 @@ function wpt_theme_script(){
 add_action('wp_enqueue_scripts', 'wpt_theme_js');
 
 ?> 
+

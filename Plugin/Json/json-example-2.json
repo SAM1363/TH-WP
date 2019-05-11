@@ -1,0 +1,19 @@
+{
+  "treehouse_teachers": [
+    {
+      "first_name" : "Zac",
+      "last_name" : "Gordon",
+      "blog_url" : "http://wp.zacgordon.com"
+    },
+    {
+      "first_name" : "Guil",
+      "last_name" : "Hernandez",
+      "treehouse_profile" : "http://teamtreehouse.com/guil"
+    },
+    {
+      "first_name" : "Jim",
+      "last_name" : "Hoskins",
+      "twitter_handle" : "@jimrhoskins"
+    }
+  ]
+}
